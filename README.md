@@ -10,13 +10,13 @@
 
 ## Skills
 
-- **Languages**: Python, JavaScript, Java, C++
-- **Frameworks**: React, Node.js, Django, Flask
-- **Tools**: Git, Docker, Kubernetes, AWS
+- **Languages**: HTML, CSS, JavaScript
+- **Frameworks**: React
+- **Tools**: Git,
 
 ## Projects
 
-- **[Project Name](https://github.com/anzaman97/project-name)**: Brief description of the project and its purpose.
+- **[Project Name](https://github.com/anzaman97/todo-app)**: Simple and functional To-Do List application.
 - **[Another Project](https://github.com/anzaman97/another-project)**: Brief description of the project and its purpose.
 
 ## GitHub Stats
