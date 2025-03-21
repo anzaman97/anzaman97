@@ -12,12 +12,12 @@
 
 - **Languages**: HTML, CSS, JavaScript
 - **Frameworks**: React
-- **Tools**: Git,
+- **Tools**: Git
 
 ## Projects
 
 - **[Project Name](https://github.com/anzaman97/todo-app)**: Simple and functional To-Do List application.
-- **[Another Project](https://github.com/anzaman97/another-project)**: Brief description of the project and its purpose.
+
 
 ## GitHub Stats
 
@@ -25,15 +25,10 @@
 
 ## Get in Touch
 
-- **LinkedIn**: [Anzaman](https://www.linkedin.com/in/anzaman97)
-- **Twitter**: [@anzaman97](https://twitter.com/anzaman97)
+- **LinkedIn**: [Andreas S.](https://fi.linkedin.com/in/andreas-schwartz-a68501338)
 - **Email**: anterosc97@gmail.com
 
 Feel free to reach out if you want to collaborate on a project or just want to say hi!
-
-## Fun Fact
-
-- 🎮 I love playing video games and solving puzzles in my free time.
 
 ---
 
